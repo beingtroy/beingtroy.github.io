@@ -1,0 +1,42 @@
+body{
+  font-family: Roboto, 'sans-serif';
+  background-color: #fce4ec;
+  color: #880e4f;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-color: #d81b60;
+  color: white;
+  padding: 20px;
+}
+
+section{
+  padding: 20px;
+}
+
+.gallery img{
+  width: 100px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+footer{
+  background-color: #d81b60;
+  color: white;
+  padding: 10px;
+}
+
+button{
+  background-color: #880e4f;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: #ad1457;
+}
